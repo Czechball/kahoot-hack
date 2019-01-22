@@ -1,7 +1,7 @@
-apt-get update
-apt-get install tmux
-apt-get install git
-apt-get install golang
+apt update
+apt install tmux
+apt install git
+apt install golang
 echo "export GOPATH=/data/data/com.termux/files/usr" > and_kh_tmp1
 chmod +x and_kh_tmp1
 sleep 1
